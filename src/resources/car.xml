@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <bean class="com.songj.adapter.car.PoliceCarAdapter">
+        <property key="sound">com.songj.adapter.car.PoliceSound</property>
+        <property key="lamp">com.songj.adapter.car.PoliceLamp</property>
+    </bean>
+</config>

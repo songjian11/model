@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <list>
+        <bean-class class = "com.songj.factory.model.Apple" type = "1"/>
+        <bean-class class = "com.songj.factory.model.Pear" type = "2"/>
+        <bean-class class = "com.songj.factory.model.Orange" type = "3"/>
+    </list>
+
+    <fruit-type value = "3"/>
+</beans>
